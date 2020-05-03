@@ -1,5 +1,5 @@
 {
-   "top_news":"https://aus.prestosports.com/landing/headlines-featured?feed=rss_2.0",
+   "topNews":"https://aus.prestosports.com/landing/headlines-featured?feed=rss_2.0",
    "schools":[
       {
          "name":"stfx"
@@ -10,24 +10,24 @@
    ],
    "sports":[
       {
-         "name":"basketball",
-         "gender":"men",
+         "type":"basketball",
+         "gender":"male",
          "feeds":{
             "news":"https://aus.prestosports.com/sports/mbkb/headlines-featured?feed=rss_2.0",
             "schedule":"https://www.atlanticuniversitysport.com/sports/mbkb/2019-20/schedule?print=rss"
          }
       },
       {
-         "sport":"basketball",
-         "gender":"women",
+         "type":"basketball",
+         "gender":"female",
          "feeds":{
             "news":"https://aus.prestosports.com/sports/wbkb/headlines-featured?feed=rss_2.0",
             "schedule":"https://www.atlanticuniversitysport.com/sports/wbkb/2019-20/schedule?print=rss"
          }
       },
       {
-         "sport":"hockey",
-         "gender":"men",
+         "type":"hockey",
+         "gender":"male",
          "feeds":{
             "news":"https://aus.prestosports.com/sports/mice/headlines-featured?feed=rss_2.0",
             "schedule":"https://www.atlanticuniversitysport.com/sports/mice/2019-20/schedule?print=rss",
@@ -35,8 +35,8 @@
          }
       },
       {
-         "sport":"hockey",
-         "gender":"women",
+         "type":"hockey",
+         "gender":"female",
          "feeds":{
             "news":"https://aus.prestosports.com/sports/wice/headlines-featured?feed=rss_2.0",
             "schedule":"https://www.atlanticuniversitysport.com/sports/wice/2019-20/schedule?print=rss",
