@@ -32,6 +32,20 @@
       "womens_rugby": "https://aus.prestosports.com/sports/wrugby/2019-20/schedule?print=rss"
     }
   },
+  "leagues": [
+    {
+      "name": "Men's Basketball",
+      "schedule": "https://aus.prestosports.com/sports/mbkb/2019-20/schedule?print=rss",
+      "playoffs": "https://presto-en.usports.ca/sports/mbkb/2019-20p/schedule?print=rss",
+      "news": "https://aus.prestosports.com/sports/mbkb/headlines-featured?feed=rss_2.0"
+    },
+    {
+      "name": "Women's Basketball",
+      "schedule": "https://aus.prestosports.com/sports/wbkb/2019-20/schedule?print=rss",
+      "playoffs": "https://presto-en.usports.ca/sports/wbkb/2019-20p/schedule?print=rss",
+      "news": "https://aus.prestosports.com/sports/wbkb/headlines-featured?feed=rss_2.0"
+    }
+  ],
   "playoffs": {
     "mens_basketball": "https://presto-en.usports.ca/sports/mbkb/2019-20p/schedule?print=rss"
   },
