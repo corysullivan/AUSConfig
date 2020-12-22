@@ -34,65 +34,65 @@
   },
   "leagues": [
     {
-      "name": "Men's Basketball",
+      "category": "Men's Basketball",
       "schedule": "https://aus.prestosports.com/sports/mbkb/2019-20/schedule?print=rss",
       "playoffs": "https://presto-en.usports.ca/sports/mbkb/2019-20p/schedule?print=rss",
       "news": "https://aus.prestosports.com/sports/mbkb/headlines-featured?feed=rss_2.0"
     },
     {
-      "name": "Women's Basketball",
+      "category": "Women's Basketball",
       "schedule": "https://aus.prestosports.com/sports/wbkb/2019-20/schedule?print=rss",
       "playoffs": "https://presto-en.usports.ca/sports/wbkb/2019-20p/schedule?print=rss",
       "news": "https://aus.prestosports.com/sports/wbkb/headlines-featured?feed=rss_2.0"
     },
     {
-      "name": "Men's Ice Hockey",
+      "category": "Men's Ice Hockey",
       "schedule": "https://aus.prestosports.com/sports/mice/2019-20/schedule?print=rss",
       "playoffs": "https://presto-en.usports.ca/sports/mice/2019-20p/schedule?print=rss",
       "news": "https://aus.prestosports.com/sports/mice/headlines-featured?feed=rss_2.0"
     },
     {
-      "name": "Women's Ice Hockey",
+      "category": "Women's Ice Hockey",
       "schedule": "https://aus.prestosports.com/sports/wice/2019-20/schedule?print=rss",
       "playoffs": "https://presto-en.usports.ca/sports/wice/2019-20p/schedule?print=rss",
       "news": "https://aus.prestosports.com/sports/wice/headlines-featured?feed=rss_2.0"
     },
     {
-      "name": "Men's Soccer",
+      "category": "Men's Soccer",
       "schedule": "https://aus.prestosports.com/sports/msoc/2019-20/schedule?print=rss",
       "playoffs": "https://presto-en.usports.ca/sports/msoc/2019-20p/schedule?print=rss",
       "news": "https://aus.prestosports.com/sports/msoc/headlines-featured?feed=rss_2.0"
     },
     {
-      "name": "Women's Soccer",
+      "category": "Women's Soccer",
       "schedule": "https://aus.prestosports.com/sports/wsoc/2019-20/schedule?print=rss",
       "playoffs": "https://presto-en.usports.ca/sports/wsoc/2019-20p/schedule?print=rss",
       "news": "https://aus.prestosports.com/sports/wsoc/headlines-featured?feed=rss_2.0"
     },
     {
-      "name": "Football",
+      "category": "Football",
       "schedule": "https://aus.prestosports.com/sports/fball/2019-20/schedule?print=rss",
       "playoffs": "https://presto-en.usports.ca/sports/fball/2019-20p/schedule?print=rss",
       "news": "https://aus.prestosports.com/sports/fball/headlines-featured?feed=rss_2.0"
     },
     {
-      "name": "Men's Volleyball",
+      "category": "Men's Volleyball",
       "schedule": "https://aus.prestosports.com/sports/mvball/2019-20/schedule?print=rss",
       "playoffs": "https://presto-en.usports.ca/sports/mvball/2019-20p/schedule?print=rss",
       "news": "https://aus.prestosports.com/sports/mvball/headlines-featured?feed=rss_2.0"
     },
     {
-      "name": "Women's Volleyball",
+      "category": "Women's Volleyball",
       "schedule": "https://aus.prestosports.com/sports/wvball/2019-20/schedule?print=rss",
       "playoffs": "https://presto-en.usports.ca/sports/wvball/2019-20p/schedule?print=rss",
       "news": "https://aus.prestosports.com/sports/wvball/headlines-featured?feed=rss_2.0"
     },
     {
-      "name": "Women's Rugby",
+      "category": "Women's Rugby",
       "schedule": "https://aus.prestosports.com/sports/wrugby/2019-20/schedule?print=rss",
       "playoffs": "https://presto-en.usports.ca/sports/wrugby/2019-20p/schedule?print=rss",
       "news": "https://aus.prestosports.com/sports/wrugby/headlines-featured?feed=rss_2.0"
-    },
+    }
   ],
   "playoffs": {
     "mens_basketball": "https://presto-en.usports.ca/sports/mbkb/2019-20p/schedule?print=rss"
